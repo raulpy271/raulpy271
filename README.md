@@ -19,8 +19,11 @@
 </p>
 
 <p align="center">
+My rank/honor solving problems in code wars:
+</p>
+<p align="center"> 
   <a href='https://www.codewars.com/users/raulpy271'>
-    <img src="https://www.codewars.com/users/raulpy271/badges/small">
+    <img src="https://www.codewars.com/users/raulpy271/badges/large">
   </a>
 </p>
 
