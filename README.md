@@ -4,6 +4,7 @@
 
 
 <p align="center">
+  <svg https://www.codewars.com/users/raulpy271/badges/large
   <a href='https://raulpy271.github.io/'>
     <img src='https://img.shields.io/static/v1?label=&style=flat-square&message=portfolio&color=purple&logo=haskell'>
   </a>
@@ -15,7 +16,12 @@
   </a>
   <a href='mailto:raulrufino0@gmail.com'>
     <img src='https://img.shields.io/static/v1?label=&style=flat-square&message=email&color=purple&logo=Gmail'>
-  </a>
+  </a> 
 </p>
 
+<p align="center">
+  <a href='https://www.codewars.com/users/raulpy271'>
+    <img src="https://www.codewars.com/users/raulpy271/badges/large">
+  </a>
+</p>
 
